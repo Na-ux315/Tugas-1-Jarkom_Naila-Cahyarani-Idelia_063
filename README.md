@@ -1,11 +1,19 @@
 # Tugas-1-Jarkom_Naila-Cahyarani-Idelia_063
 
-2. Setiap mahasiswa memiliki base network unik, dengan aturan: 
-10.(NRP mod 256).0.0
+- [Question 1](#question-1)
+- [Question 2](#question-2)
+- [Question 3](#question-3)
+
+## Question 1
+> Rancanglah topologinya menggunakan Cisco Packet Tracer.
+
+## Question 2
+> Setiap mahasiswa memiliki base network unik, dengan aturan: 10.(NRP mod 256).0.0
 
 NRP 5027241063 mod 256 = 23, maka base: 10.63.0.0.
 
-3. Lakukan perhitungan subnetting dengan VLSM & CIDR di Spreadsheet untuk seluruh jaringan LAN dan link antar-router.
+## Question 3
+> Lakukan perhitungan subnetting dengan VLSM & CIDR di Spreadsheet untuk seluruh jaringan LAN dan link antar-router.
 
 <img width="1057" height="554" alt="image" src="https://github.com/user-attachments/assets/c1ab8ab7-aa94-4212-8688-630632ad928b" />
 
