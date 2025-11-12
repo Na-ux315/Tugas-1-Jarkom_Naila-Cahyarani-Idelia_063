@@ -7,6 +7,8 @@
 ## Question 1
 > Rancanglah topologinya menggunakan Cisco Packet Tracer.
 
+<img width="1325" height="523" alt="image" src="https://github.com/user-attachments/assets/65c97f15-8baf-4a7c-8668-739178bce1e8" />
+
 ## Question 2
 > Setiap mahasiswa memiliki base network unik, dengan aturan: 10.(NRP mod 256).0.0
 
