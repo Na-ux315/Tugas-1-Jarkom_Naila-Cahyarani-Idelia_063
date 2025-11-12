@@ -81,6 +81,9 @@ Jika diperhatikan bahwa:
 
 Semua subnet ini berurutan dan dimulai dari 10.63.3.0 hingga 10.63.3.235. Maka semua subnet di 10.63.3.x bisa diwakili oleh satu route: 10.63.3.0/24.
 
+<img width="663" height="333" alt="image" src="https://github.com/user-attachments/assets/bb1d229a-0ccb-4b00-b375-b2acf234099b" />
+
+
 +-------------------------------------------------------------+
 |                  Base Network: 10.63.0.0/16                   |
 +-------------------------------------------------------------+
